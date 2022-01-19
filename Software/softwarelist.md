@@ -87,6 +87,7 @@ Note: We are still working on a way to make Terraria function properly. It is cu
 - [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing)
 - [GeForceNOW](https://drive.google.com/file/d/1kbVMtYiMOtKc4L_Qd-5dsO54WfhY_hEU/view?usp=sharing) (SEE: [extranotes.md](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/extranotes.md))
 - [Paint.net](https://drive.google.com/file/d/1_PdT3q3zeT5gBilUMdqR-BaYgpYfnNG3/view?usp=sharing)
+- [WinAmp] [https://drive.google.com/file/d/1miRs-WsTWxLNQ9lzIzTZynUtJXg4NS-O/view?usp=sharing)
 
 # MOVIES
 NOTE: When you click a movie, it will open a video window to watch it. You do not need to download the movie unless you wish to. Be warned if you download it, it will be a very large file. In addition, longer films such as the Spider-Man films may take a long time to load. Patience is key.
